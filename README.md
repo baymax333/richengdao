@@ -25,21 +25,13 @@
 
 ## 下载
 
-当前 APK 文件名：
+当前公开版本：**日程岛 v0.1.0**
 
-```text
-日程岛.apk
-```
+- [立即下载 APK](https://github.com/baymax333/richengdao/releases/download/v0.1.0/default.apk)
+- [查看发布页](https://github.com/baymax333/richengdao/releases/tag/v0.1.0)
+- [查看最新版本](https://github.com/baymax333/richengdao/releases/latest)
 
-建议通过 GitHub Releases 发布正式 APK，便于保留版本记录和校验信息：
-
-https://github.com/baymax333/richengdao/releases
-
-当前构建文件的 SHA-256：
-
-```text
-42CF4C9B5B57406ED9F2B3F49FE397B1BCE1F3CF88D0C5F17454DC88547EDBC9
-```
+说明：Android 安装第三方 APK 时，系统可能提示“未知来源应用”。请确认下载地址来自本仓库后再安装。
 
 ## 爱发电支持
 
