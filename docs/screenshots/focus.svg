@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="720" viewBox="0 0 360 720" role="img" aria-label="日程岛专注界面预览">
+  <rect width="360" height="720" rx="28" fill="#f7faf6"/>
+  <circle cx="32" cy="44" r="21" fill="#ffe100" stroke="#1d1e1c" stroke-width="3"/><circle cx="54" cy="44" r="21" fill="#fff" stroke="#1d1e1c" stroke-width="3"/>
+  <text x="70" y="34" font-size="15" font-family="sans-serif" font-weight="800" fill="#a5a7ab">绑定任务后开始</text>
+  <text x="70" y="70" font-size="32" font-family="sans-serif" font-weight="900" fill="#111">专注</text>
+  <circle cx="318" cy="45" r="25" fill="#ffe100" stroke="#1d1e1c" stroke-width="3"/><text x="307" y="57" font-size="34" font-family="sans-serif" font-weight="500" fill="#111">+</text>
+  <rect x="18" y="100" width="324" height="378" rx="10" fill="#fff" stroke="#e8e8e8"/>
+  <rect x="94" y="128" width="172" height="34" rx="17" fill="#eee6be" stroke="#8a8778"/><path d="M180 128V162" stroke="#8a8778"/><text x="118" y="151" font-size="15" font-family="sans-serif" font-weight="900">番茄钟</text><text x="204" y="151" font-size="15" font-family="sans-serif" font-weight="900">✓ 倒计时</text>
+  <rect x="38" y="184" width="284" height="50" rx="10" fill="#f7f7f7"/><text x="128" y="216" font-size="17" font-family="sans-serif" font-weight="800" fill="#4d4a42">这次想专注什么</text>
+  <circle cx="180" cy="320" r="76" fill="#fff" stroke="#ffe100" stroke-width="14"/>
+  <text x="126" y="318" font-size="40" font-family="sans-serif" font-weight="900" fill="#111">45:00</text>
+  <text x="123" y="350" font-size="17" font-family="sans-serif" font-weight="900" fill="#a1a4aa">倒计时 · 未命名专注</text>
+  <g font-family="sans-serif" font-size="17" font-weight="900" fill="#4d4a42"><rect x="34" y="420" width="64" height="34" rx="8" fill="#fff" stroke="#e3e3e3"/><text x="53" y="443">15 分</text><rect x="108" y="420" width="64" height="34" rx="8" fill="#fff" stroke="#e3e3e3"/><text x="127" y="443">25 分</text><rect x="182" y="420" width="64" height="34" rx="8" fill="#ffe100" stroke="#111" stroke-width="2"/><text x="195" y="443">✓ 45 分</text><rect x="256" y="420" width="70" height="34" rx="8" fill="#fff" stroke="#e3e3e3"/><text x="272" y="443">自定义</text></g>
+  <rect x="127" y="474" width="106" height="38" rx="19" fill="#1e1f23"/><text x="154" y="499" font-size="17" font-family="sans-serif" font-weight="900" fill="#fff">开始专注</text>
+  <text x="18" y="548" font-size="27" font-family="sans-serif" font-weight="900" fill="#111">今天记录</text><text x="300" y="548" font-size="17" font-family="sans-serif" font-weight="900" fill="#a1a4aa">0 分钟</text>
+  <rect y="652" width="360" height="68" fill="#dedede"/>
+  <ellipse cx="212" cy="680" rx="36" ry="22" fill="#ffe100"/>
+  <g font-family="sans-serif" font-size="13" font-weight="800" fill="#4b4a42"><text x="20" y="702">打卡</text><text x="76" y="702">日历</text><text x="130" y="702">收集箱</text><text x="198" y="702">专注</text><text x="247" y="702">临时笔记</text><text x="320" y="702">关于</text></g>
+</svg>
