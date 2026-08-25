@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="720" viewBox="0 0 360 720" role="img" aria-label="日程岛随手笔记界面预览">
+  <rect width="360" height="720" rx="28" fill="#f7faf6"/>
+  <rect y="0" width="360" height="56" fill="#fff"/>
+  <text x="22" y="36" font-size="26" font-family="sans-serif" font-weight="900" fill="#111">随手笔记</text>
+  <text x="280" y="36" font-size="24" font-family="sans-serif" font-weight="900" fill="#4b4a42">⌫ ↓</text>
+  <rect y="56" width="360" height="48" fill="#fff" opacity=".68"/>
+  <text x="18" y="88" font-size="20" font-family="sans-serif" font-weight="900" fill="#4b4a42">↶</text><text x="58" y="88" font-size="20" font-family="sans-serif" font-weight="900" fill="#b8b9b6">↷</text><text x="116" y="88" font-size="17" font-family="sans-serif" font-weight="900" fill="#736d00">子节点</text><text x="210" y="88" font-size="17" font-family="sans-serif" font-weight="900" fill="#736d00">同级</text><text x="290" y="88" font-size="22" font-family="sans-serif" font-weight="900" fill="#4b4a42">⌕</text>
+  <rect x="-35" y="308" width="170" height="62" rx="8" fill="#fff39a" stroke="#e2df96"/><text x="28" y="346" font-size="18" font-family="sans-serif" font-weight="900" fill="#9a9a9a">中心主题</text>
+  <path d="M135 338C166 338 154 272 188 272" fill="none" stroke="#6b7166" stroke-width="4"/><path d="M135 338C166 338 154 398 188 398" fill="none" stroke="#6b7166" stroke-width="4"/>
+  <rect x="188" y="260" width="150" height="56" rx="8" fill="#dff3ff" stroke="#35b1a8" stroke-width="3"/><text x="247" y="294" font-size="18" font-family="sans-serif" font-weight="900" fill="#9a9a9a">新想法</text>
+  <rect x="306" y="273" width="46" height="46" rx="23" fill="#1e1f23"/><text x="322" y="305" font-size="30" font-family="sans-serif" fill="#fff">+</text>
+  <rect x="188" y="386" width="150" height="56" rx="8" fill="#dff3ff" stroke="#d7dfdf"/><text x="247" y="420" font-size="18" font-family="sans-serif" font-weight="900" fill="#9a9a9a">新想法</text>
+  <rect x="18" y="618" width="92" height="28" rx="6" fill="#fff" stroke="#dedede"/><text x="34" y="638" font-size="14" font-family="sans-serif" font-weight="900" fill="#a1a4aa">本地自动保存</text>
+  <rect y="652" width="360" height="68" fill="#dedede"/>
+  <ellipse cx="272" cy="680" rx="36" ry="22" fill="#ffe100"/>
+  <g font-family="sans-serif" font-size="13" font-weight="800" fill="#4b4a42"><text x="20" y="702">打卡</text><text x="76" y="702">日历</text><text x="130" y="702">收集箱</text><text x="198" y="702">专注</text><text x="247" y="702">临时笔记</text><text x="320" y="702">关于</text></g>
+</svg>
