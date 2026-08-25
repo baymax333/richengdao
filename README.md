@@ -6,15 +6,44 @@
 
 ## 界面预览
 
-| 今日打卡 | 日历概览 | 收集箱 |
-| --- | --- | --- |
-| <img src="docs/screenshots/checkin.jpg" width="210" alt="日程岛今日打卡界面截图"> | <img src="docs/screenshots/calendar.jpg" width="210" alt="日程岛日历概览界面截图"> | <img src="docs/screenshots/inbox.jpg" width="210" alt="日程岛收集箱界面截图"> |
-| 首页只展示今天需要完成的打卡，新的日期会进入新的当天状态，不把过去或未来的内容混在一起。 | 用月视图查看日程概况，支持切换月份、跳转今天，并进入具体日期查看当天安排。 | 先把临时事项、想法、图片或链接放进收集箱，再拖拽整理到任务、日程、习惯、笔记四类。 |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>今日打卡</strong><br>
+      <img src="docs/screenshots/checkin.png" width="220" alt="日程岛今日打卡界面截图">
+    </td>
+    <td align="center" width="33%">
+      <strong>日历概览</strong><br>
+      <img src="docs/screenshots/calendar.png" width="220" alt="日程岛日历概览界面截图">
+    </td>
+    <td align="center" width="33%">
+      <strong>收集箱</strong><br>
+      <img src="docs/screenshots/inbox.png" width="220" alt="日程岛收集箱界面截图">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">首页只展示今天需要完成的打卡，新的日期会进入新的当天状态，不把过去或未来的内容混在一起。</td>
+    <td align="center">用月视图查看日程概况，支持切换月份、跳转今天，并进入具体日期查看当天安排。</td>
+    <td align="center">先把临时事项、想法、图片或链接放进收集箱，再拖拽整理到任务、日程、习惯、笔记四类。</td>
+  </tr>
+</table>
 
-| 专注 | 临时笔记 |
-| --- | --- |
-| <img src="docs/screenshots/focus.jpg" width="210" alt="日程岛专注计时界面截图"> | <img src="docs/screenshots/notes.jpg" width="210" alt="日程岛临时笔记界面截图"> |
-| 选择合适时长后开始倒计时，专注内容可编辑，完成后可以保存到今日记录。 | 用节点式方式快速写下想法和结构，适合临时梳理计划、灵感和待完善的内容。 |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>专注</strong><br>
+      <img src="docs/screenshots/focus.png" width="220" alt="日程岛专注计时界面截图">
+    </td>
+    <td align="center" width="50%">
+      <strong>临时笔记</strong><br>
+      <img src="docs/screenshots/notes.png" width="220" alt="日程岛临时笔记界面截图">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">选择合适时长后开始倒计时，专注内容可编辑，完成后可以保存到今日记录。</td>
+    <td align="center">用节点式方式快速写下想法和结构，适合临时梳理计划、灵感和待完善的内容。</td>
+  </tr>
+</table>
 
 ## 主要功能
 
